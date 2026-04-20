@@ -1,0 +1,8 @@
+# Ignore video files
+*.mp4
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
